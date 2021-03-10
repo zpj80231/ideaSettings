@@ -1,0 +1,32 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2019-07-19T22:43:48</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2019-09-29T15:11:23</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="c9cacb" />
+    <option name="READONLY_BACKGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2ab9b0" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="d4edd9" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

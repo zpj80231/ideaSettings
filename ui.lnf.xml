@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

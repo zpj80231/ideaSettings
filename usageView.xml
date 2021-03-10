@@ -1,0 +1,11 @@
+<application>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+  </component>
+</application>

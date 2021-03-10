@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="794" />
+    <option name="newTranslationDialogY" value="427" />
+    <histories>
+      <item value="RV: Exceptional return value of java.io.File.mkdirs() ignored" />
+      <item value="localhost" />
+      <item value="node modules" />
+      <item value="vuepress" />
+      <item value="This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
+      <item value="Arithmetic Exception" />
+      <item value="org/apache/curator/framework/recipes/cache/Node Cache" />
+      <item value="reason" />
+      <item value="Could not load config for namespace application.yml from Dap, please check whether the configs are released in Dap! Return default value now!" />
+      <item value="overflow-conscious code" />
+      <item value="The packaging for this project did not assign a file to the build artifact" />
+      <item value="FORBIDDEN" />
+      <item value="没有相关权限" />
+      <item value="new Set From Map" />
+      <item value="singletons Currently In Creation" />
+      <item value="Error during artifact deployment" />
+      <item value="during" />
+      <item value="Method Argument Not Valid Exception" />
+      <item value="java.lang.SecurityException: Invalid signature file digest for Manifest main attributes" />
+      <item value="admirer" />
+      <item value="add reward and friend chain" />
+      <item value="帐" />
+      <item value="友人帐" />
+      <item value="update RecentlyUpdateArticle show path" />
+      <item value="重要：添加Recently Update Article组件" />
+      <item value="Update Article" />
+      <item value="Copyright" />
+      <item value="tail" />
+      <item value="EXCLUSIVE" />
+      <item value="SHARED" />
+      <item value="fuck you" />
+      <item value="你妈的" />
+      <item value="wh你妈的" />
+      <item value="where is" />
+      <item value="好滴" />
+      <item value="String" />
+      <item value="Table Name Replace" />
+      <item value="Eureka集群" />
+      <item value="star一下哟" />
+      <item value="欢迎大家提问题交流" />
+      <item value="Tests whether the file denoted by this abstract pathname is a directory. Where it is required to distinguish an I/O exception from the case that the file is not a directory, or where several attributes of the same file are required at the same time, then the Files.readAttributes method may be used" />
+      <item value="counter" />
+      <item value="批量修改表名" />
+      <item value="错误文件" />
+      <item value="Hash Map" />
+      <item value="resource" />
+      <item value="Language does not exist shell" />
+      <item value="set Integration" />
+      <item value="Message Post Processor" />
+      <item value="calc Coupon Amount" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615340319167" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

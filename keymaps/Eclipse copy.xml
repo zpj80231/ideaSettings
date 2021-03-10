@@ -1,0 +1,43 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="Debugger.EditCustomField" />
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoPreviousError" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
