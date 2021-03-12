@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="notification" />
       <item value="RV: Exceptional return value of java.io.File.mkdirs() ignored" />
       <item value="localhost" />
       <item value="node modules" />
@@ -53,12 +54,11 @@
       <item value="Language does not exist shell" />
       <item value="set Integration" />
       <item value="Message Post Processor" />
-      <item value="calc Coupon Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
