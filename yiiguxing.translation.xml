@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="secure" />
+      <item value="Application Context Aware" />
+      <item value="Aware" />
       <item value="notification" />
       <item value="RV: Exceptional return value of java.io.File.mkdirs() ignored" />
       <item value="localhost" />
@@ -51,14 +54,11 @@
       <item value="错误文件" />
       <item value="Hash Map" />
       <item value="resource" />
-      <item value="Language does not exist shell" />
-      <item value="set Integration" />
-      <item value="Message Post Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
