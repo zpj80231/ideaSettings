@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="dynamic" />
       <item value="secure" />
       <item value="Application Context Aware" />
       <item value="Aware" />
@@ -53,12 +54,11 @@
       <item value="批量修改表名" />
       <item value="错误文件" />
       <item value="Hash Map" />
-      <item value="resource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
