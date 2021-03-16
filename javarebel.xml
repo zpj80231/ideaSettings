@@ -6,7 +6,7 @@
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2021.1.0" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2021.1.2" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2021.1.2" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
