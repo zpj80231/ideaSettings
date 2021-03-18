@@ -1,5 +1,5 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="isEnabledUIIcons" value="false" />
+    <option name="isEnabledPsiIcons" value="false" />
   </component>
 </application>
