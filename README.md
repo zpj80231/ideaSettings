@@ -1,111 +1,67 @@
-> 个人idea配置
+# 个人idea配置
 
 使用方法： 
 
 1. idea 
-2. File | Settings Repository指定远程仓库地址(自己在github或者gitee上新建一个空的git仓库即可)
+2. File | Settings Repository指定远程仓库地址 (自己在github或者gitee上新建一个空的git仓库即可)
 3. Overwrite Local or Overwrite Remote
 
+## 常用配置
 
-### # 主题
+看这两个就行：
+
+1. [IDEA的常见的设置和优化（功能）](https://blog.csdn.net/zeal9s/article/details/83544074)
+2. [2020年最新-IDEA最详细配置（配图文收藏版配置）](https://www.bilibili.com/read/cv5707434/)
+
+## 常用插件
+
+| 序号 | 名称                           | 备注                                                         |
+| ---- | ------------------------------ | ------------------------------------------------------------ |
+| 1    | Alibaba Java Coding Guidelines | 阿里编程规范，可以检查自己的java命名规范编程规范以及bug，并会给出相应的解决方案 |
+| 2    | Grep Console                   | 对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。 |
+| 3    | Kotlin                         | 项目中使用到了Kotlin可以安装                                 |
+| 4    | Lombok                         | 以简单的注解形式简化POJO                                     |
+| 5    | Translation                    | 翻译                                                         |
+| 6    | JRebel                         | 热加载插件，  代码改动之后无需重启服务，被修改的类会自动重新加载，破解请自行百度 |
+| 7    | CodeGlance                     | 类似于Sublime的右侧，整体代码滚动条，使用此插件可以查看缩略图一样，快速切换到自己需要去的地方~ |
+| 8    | Rainbow Brackets               | 彩色括号匹配                                                 |
+| 9    | Atom File Icons IDEA           | 各种文件夹、文件图标                                         |
+| 10   | .ignore                        | 生成各种模板化的git忽略文件                                  |
+| 11   | Mybatis log plugin             | mybatis自己控制的参数编译有点反人类，选中需要转换的mybatis log日志，然后点击右键，选择Restore sql from slection |
+| 12   | Free Mybatis plugin            | 生成mapper xml文件<br/>快速从代码跳转到mapper及从mapper返回代码<br/>mybatis自动补全及语法错误提示<br/>集成mybatis generator gui界面<br/>根据数据库注解，生成swagger model注解 |
+| 13   | Maven Helper                   | 查找和排除冲突依赖项的简便方法                               |
+| 14   | RestfulToolkit                 | 1.根据 URL 直接跳转到对应的方法定义 ( Ctrl \ or Ctrl Alt N );<br/>2.提供了一个 Services tree 的显示窗口;<br/>3.一个简单的 http 请求工具;<br/>4.在请求方法上添加了有用功能: 复制生成 URL;,复制方法参数...<br/>5.其他功能: java 类上添加 Convert to JSON 功能，格式化 json 数据 ( Windows: Ctrl + Enter; Mac: Command + Enter )。 |
+| 15   | GenerateAllSetter              | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter |
+| 16   | codota                         | 需联网使用，代码智能自动补全，比idea自带的提示还要详细，你甚至可以直接搜索一个词的类似用法，看看大神是怎么写的。 |
+
+## 主题
+
+- 默认的 吸血鬼 主题，完美~
 
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000955_8a1a2c2a_945727.png)
 
-### # 字体
+## 字体
 
-* 推荐DejaVu Sans Mono，这个字体绝对爽翻
-* 第二推荐Courier 或者 Courier New
-  *  IDEA应用字体
+* 推荐 JetBrains Mono
+* IDEA 应用字体 和 代码字体 设置：
 
 ![IDEA应用字体](https://images.gitee.com/uploads/images/2019/0118/000955_06dda8fd_945727.png)
-    * 代码字体
 ![代码字体](https://images.gitee.com/uploads/images/2019/0118/000955_dd80cfab_945727.png)
-    * 预览
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000955_15cc4b55_945727.png)
-
-### # 常用插件
-
-* Alibaba Java Coding Guidelines
-  阿里巴巴编程规范，可以检查自己的java命名规范编程规范以及bug，并会给出相应的解决方案
-  ![image.png](https://images.gitee.com/uploads/images/2019/0118/000955_c6e5ea1a_945727.png)
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000955_a8444e07_945727.png)
-
-* Grep Console
-  对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000955_9910b38f_945727.png)
-
-* Kotlin
-  项目中使用到了Kotlin可以安装
-* Lombok Plugin
-  简化重复的java代码
-* Translation
-  翻译
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_8a4e0572_945727.png)
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_868d2e1b_945727.png)
-
-* java反编译插件 Java Bytecode Decompiler
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_81cab8f7_945727.png)
-
-  * before
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_4dfa93aa_945727.png)
-
-  * after
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_3466e511_945727.png)
 
 
-* 热加载插件(牛*货) JRebal
-  代码改动之后无需重启服务，被修改的类会自动重新加载
+## 代码模板 
 
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_15e6bcaf_945727.png)
-
-* 滚动条-CodeGlance
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_f395bbeb_945727.png)
-
-
-
-
-#### # 重磅(代码模板 类似sout,syso)
+### 类似 sysout
 
 * Editor->General->Postfix Completion 
 
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_ff16629c_945727.png)
+* Editor->Live Templates
 
-* Editor->Live Templates->other
+相关配置见：[IDEA代码模板](https://blog.csdn.net/Yinyaowei/article/details/103836510)
 
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_1335a7b5_945727.png)
 
-```java
-private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);
-
-@Test
-public void test$VAR$(){
-    
-}
-```
-
-* 使用
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_07fd9eba_945727.png)
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_cc8a1886_945727.png)
-
-
-
-* 文件头
+### 文件头注释
 
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000957_0a1a36f9_945727.png)
 
-* Rainbow Brackets-彩色括号匹配
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000957_d9b09b83_945727.png)
-
-* Atom File Icons IDEA（图标）
-
-![image.png](https://images.gitee.com/uploads/images/2019/0118/000958_7ee6cccd_945727.png)
