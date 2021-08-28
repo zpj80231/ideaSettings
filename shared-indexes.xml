@@ -1,0 +1,7 @@
+<application>
+  <component name="download-consent">
+    <option name="consentItems">
+      <item download="DENIED" kind="jdk" url="https://index-cdn.jetbrains.com/v2/jdk" />
+    </option>
+  </component>
+</application>
