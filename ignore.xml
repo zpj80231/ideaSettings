@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="100" starredTemplates="" unignoreActions="true" hideIgnoredFiles="false" notifyIgnoredEditing="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" starredTemplates="" unignoreActions="true" notifyIgnoredEditing="true" foldableProjectViewAdvertiseShown="true">
     <languages>
       <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
       <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
@@ -12,7 +12,6 @@
       <language id="Floobits" NEW_FILE="true" ENABLE="false" />
       <language id="Fossil" NEW_FILE="true" ENABLE="true" />
       <language id="Git" NEW_FILE="true" ENABLE="false" />
-      <language id="Git exclude" NEW_FILE="true" ENABLE="false" />
       <language id="Google Cloud" NEW_FILE="true" ENABLE="false" />
       <language id="Kubernetes Helm" NEW_FILE="true" ENABLE="false" />
       <language id="Jetpack" NEW_FILE="true" ENABLE="false" />
