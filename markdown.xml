@@ -1,5 +1,7 @@
 <application>
   <component name="MarkdownApplicationSettings" HideErrors="true">
-    <MarkdownCssSettings StylesheetUri="jar:file:/D:/IntelliJ%20IDEA%202017.1/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/D:/IntelliJ%20IDEA%202017.1/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css">
+      <option name="fontSize" value="13" />
+    </MarkdownCssSettings>
   </component>
 </application>
