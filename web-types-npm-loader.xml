@@ -57,10 +57,6 @@
     <package name="@web-types/vue-no-ssr">
       <version value="1.0.0-1" url="https://registry.npmjs.org/@web-types/vue-no-ssr/-/vue-no-ssr-1.0.0-1.tgz" />
     </package>
-    <package name="@web-types/vue-router">
-      <version value="3.1.0-1" url="https://registry.npmjs.org/@web-types/vue-router/-/vue-router-3.1.0-1.tgz" />
-      <version value="3.0.0-1" url="https://registry.npmjs.org/@web-types/vue-router/-/vue-router-3.0.0-1.tgz" />
-    </package>
     <package name="@web-types/vuetify">
       <version value="2.0.15-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.15-1.tgz" />
       <version value="2.0.12-1" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-2.0.12-1.tgz" />
