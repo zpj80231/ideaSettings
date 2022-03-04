@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Dependabot metadata" />
       <item value="view window distance" />
       <item value="Sidebar Links" />
       <item value="is In View Port Of One" />
@@ -53,7 +54,6 @@
       <item value="Eureka集群" />
       <item value="star一下哟" />
       <item value="欢迎大家提问题交流" />
-      <item value="Tests whether the file denoted by this abstract pathname is a directory. Where it is required to distinguish an I/O exception from the case that the file is not a directory, or where several attributes of the same file are required at the same time, then the Files.readAttributes method may be used" />
     </histories>
     <option name="languageScores">
       <map>
