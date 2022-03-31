@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="dependence" />
       <item value="shortcut" />
       <item value="Dependabot metadata" />
       <item value="view window distance" />
@@ -53,7 +54,6 @@
       <item value="String" />
       <item value="Table Name Replace" />
       <item value="Eureka集群" />
-      <item value="star一下哟" />
     </histories>
     <option name="languageScores">
       <map>
