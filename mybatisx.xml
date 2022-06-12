@@ -1,0 +1,9 @@
+<application>
+  <component name="MybatisXSettings">
+    <option name="deleteGenerator" value="cancel;del;delete" />
+    <option name="insertGenerator" value="add;insert;new" />
+    <option name="mapperIcon" value="BIRD" />
+    <option name="selectGenerator" value="search;select;find;get;query;list;look" />
+    <option name="updateGenerator" value="update;modify;set" />
+  </component>
+</application>
