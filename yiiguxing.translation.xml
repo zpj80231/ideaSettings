@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Minimum number of listener invoker threads" />
+      <item value="Minimum number of listener invoker threads." />
       <item value="routing Key SMS" />
       <item value="dependence" />
       <item value="shortcut" />
@@ -52,13 +54,11 @@
       <item value="wh你妈的" />
       <item value="where is" />
       <item value="好滴" />
-      <item value="String" />
-      <item value="Table Name Replace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
