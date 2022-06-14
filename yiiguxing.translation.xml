@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="routing Key SMS" />
       <item value="dependence" />
       <item value="shortcut" />
       <item value="Dependabot metadata" />
@@ -53,12 +54,11 @@
       <item value="好滴" />
       <item value="String" />
       <item value="Table Name Replace" />
-      <item value="Eureka集群" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
