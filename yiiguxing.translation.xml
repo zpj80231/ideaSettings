@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="New Connected Line Event" />
       <item value="Dial Begin Event" />
       <item value="A dial event is triggered whenever a phone attempts to dial someone. This event is implemented in appsapp_dial.c." />
       <item value="Dial Event" />
@@ -53,12 +54,11 @@
       <item value="overflow-conscious code" />
       <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="FORBIDDEN" />
-      <item value="没有相关权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
