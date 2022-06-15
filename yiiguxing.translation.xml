@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="ANSWER" />
+      <item value="INUSE" />
+      <item value="New State Event" />
+      <item value="Bridge Enter Event" />
+      <item value="Bridge Create Event" />
       <item value="New Connected Line Event" />
       <item value="Dial Begin Event" />
       <item value="A dial event is triggered whenever a phone attempts to dial someone. This event is implemented in appsapp_dial.c." />
@@ -49,18 +54,14 @@
       <item value="This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="Arithmetic Exception" />
       <item value="org/apache/curator/framework/recipes/cache/Node Cache" />
-      <item value="reason" />
-      <item value="Could not load config for namespace application.yml from Dap, please check whether the configs are released in Dap! Return default value now!" />
-      <item value="overflow-conscious code" />
-      <item value="The packaging for this project did not assign a file to the build artifact" />
-      <item value="FORBIDDEN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>
   </component>
