@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Sets the name of the channel to connect to the outgoing call. This property is mandatory." />
       <item value="The OriginateAction generates an outgoing call to the extension in the given context with the given priority or to a given application with optional parameters. If you want to connect to an extension use the properties context, exten and priority. If you want to connect to an application use the properties application and data if needed. Note that no call detail record will be written when directly connecting to an application, so it may be better to connect to an extension that starts the application you wish to connect to. The response to this action is sent when the channel has been answered and asterisk starts connecting it to the given extension. So be careful not to choose a too short timeout when waiting for the response. If you set async to true Asterisk reports an OriginateSuccess- and OriginateFailureEvents. The action id of these events equals the action id of this OriginateAction. See Also: OriginateResponseEvent" />
       <item value="Minimum number of listener invoker threads" />
       <item value="Minimum number of listener invoker threads." />
@@ -53,12 +54,11 @@
       <item value="fuck you" />
       <item value="你妈的" />
       <item value="wh你妈的" />
-      <item value="where is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
