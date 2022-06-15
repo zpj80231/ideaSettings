@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Music On Hold Start Event" />
+      <item value="Bridge Leave Event" />
+      <item value="Soft Hangup Request Event" />
       <item value="Agi Exec Start Event" />
       <item value="A VarSetEvent is triggered when a channel or global variable is set in Asterisk. Available since Asterisk 1.6" />
       <item value="Device State Change Event" />
@@ -51,14 +54,11 @@
       <item value="new Set From Map" />
       <item value="singletons Currently In Creation" />
       <item value="Error during artifact deployment" />
-      <item value="during" />
-      <item value="Method Argument Not Valid Exception" />
-      <item value="java.lang.SecurityException: Invalid signature file digest for Manifest main attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
