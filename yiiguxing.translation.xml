@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Dial Begin Event" />
+      <item value="A dial event is triggered whenever a phone attempts to dial someone. This event is implemented in appsapp_dial.c." />
+      <item value="Dial Event" />
       <item value="Music On Hold Start Event" />
       <item value="Bridge Leave Event" />
       <item value="Soft Hangup Request Event" />
@@ -51,14 +54,11 @@
       <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="FORBIDDEN" />
       <item value="没有相关权限" />
-      <item value="new Set From Map" />
-      <item value="singletons Currently In Creation" />
-      <item value="Error during artifact deployment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
       </map>
