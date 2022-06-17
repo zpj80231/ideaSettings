@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="(no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Cannot construct instance of `org.asteriskjava.manager.event.BridgeEnterEvent` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Server Endpoint Exporter" />
       <item value="someone should add it!" />
@@ -53,12 +54,11 @@
       <item value="secure" />
       <item value="Application Context Aware" />
       <item value="Aware" />
-      <item value="notification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
