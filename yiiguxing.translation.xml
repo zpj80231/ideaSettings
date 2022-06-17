@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Slow processing of event com.dky.asterisk.manager.listener.DkyManagerEventListener" />
       <item value="(no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Cannot construct instance of `org.asteriskjava.manager.event.BridgeEnterEvent` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Server Endpoint Exporter" />
@@ -53,12 +54,11 @@
       <item value="dynamic" />
       <item value="secure" />
       <item value="Application Context Aware" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
