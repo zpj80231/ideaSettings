@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="获取中间数" />
+      <item value="获取中间shu" />
+      <item value="获取中间书" />
+      <item value="获取中间" />
+      <item value="获取zhong'jian" />
+      <item value="获取zh" />
+      <item value="获取" />
+      <item value="huo'qu" />
+      <item value="huo" />
       <item value="手机号" />
       <item value="加密" />
       <item value="数字加密" />
@@ -45,20 +54,11 @@
       <item value="Created by plhk on 11515." />
       <item value="Created" />
       <item value="Unreachable" />
-      <item value="Raised when the state of a contact changes. Available since Asterisk 13" />
-      <item value="Sets the name of the channel to connect to the outgoing call. This property is mandatory." />
-      <item value="The OriginateAction generates an outgoing call to the extension in the given context with the given priority or to a given application with optional parameters. If you want to connect to an extension use the properties context, exten and priority. If you want to connect to an application use the properties application and data if needed. Note that no call detail record will be written when directly connecting to an application, so it may be better to connect to an extension that starts the application you wish to connect to. The response to this action is sent when the channel has been answered and asterisk starts connecting it to the given extension. So be careful not to choose a too short timeout when waiting for the response. If you set async to true Asterisk reports an OriginateSuccess- and OriginateFailureEvents. The action id of these events equals the action id of this OriginateAction. See Also: OriginateResponseEvent" />
-      <item value="Minimum number of listener invoker threads" />
-      <item value="Minimum number of listener invoker threads." />
-      <item value="routing Key SMS" />
-      <item value="dependence" />
-      <item value="shortcut" />
-      <item value="Dependabot metadata" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
