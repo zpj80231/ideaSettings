@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="规则" />
       <item value="Real middle Number" />
       <item value="尾号" />
       <item value="wei'hao" />
@@ -53,12 +54,11 @@
       <item value="Peer Status Event" />
       <item value="Extension Status Event" />
       <item value="Non Qualified" />
-      <item value="Challenge Sent Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
