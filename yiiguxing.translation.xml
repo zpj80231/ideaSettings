@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="手机号" />
+      <item value="加密" />
+      <item value="数字加密" />
+      <item value="数字jia'mi" />
+      <item value="数字jie" />
+      <item value="shu'zi" />
+      <item value="shu" />
       <item value="Slow processing of event com.dky.asterisk.manager.listener.DkyManagerEventListener" />
       <item value="(no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Cannot construct instance of `org.asteriskjava.manager.event.BridgeEnterEvent` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
@@ -47,18 +54,11 @@
       <item value="dependence" />
       <item value="shortcut" />
       <item value="Dependabot metadata" />
-      <item value="view window distance" />
-      <item value="Sidebar Links" />
-      <item value="is In View Port Of One" />
-      <item value="bottom Visible" />
-      <item value="dynamic" />
-      <item value="secure" />
-      <item value="Application Context Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655456879266" />
+    <option name="lastTrimTime" value="1656053745093" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
