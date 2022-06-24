@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="尾号" />
+      <item value="wei'hao" />
       <item value="获取中间数" />
       <item value="获取中间shu" />
       <item value="获取中间书" />
@@ -52,13 +54,11 @@
       <item value="Non Qualified" />
       <item value="Challenge Sent Event" />
       <item value="Created by plhk on 11515." />
-      <item value="Created" />
-      <item value="Unreachable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
