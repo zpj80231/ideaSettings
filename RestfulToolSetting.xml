@@ -1,0 +1,15 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="Scan service with library on application default (global)" value="false" />
+            <entry key="Whether to display the Class file by default?" value="true" />
+            <entry key="Whether to expand the ServiceTree by default?" value="false" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>
