@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Please confirm whether the parameter is a pure number" />
+      <item value="请确认参数是否为纯数字" />
+      <item value="Illegal Argument Exception" />
       <item value="手机号加解密工具类" />
       <item value="手机号加解密g'n" />
       <item value="手机号加解密g" />
@@ -51,14 +54,11 @@
       <item value="Dial Begin Event" />
       <item value="A dial event is triggered whenever a phone attempts to dial someone. This event is implemented in appsapp_dial.c." />
       <item value="Dial Event" />
-      <item value="Music On Hold Start Event" />
-      <item value="Bridge Leave Event" />
-      <item value="Soft Hangup Request Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
