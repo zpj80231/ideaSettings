@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Please confirm whether the 'projectId' is a pure number and at least 8 bits" />
+      <item value="and at least 8 bits" />
+      <item value="并且至少8位" />
+      <item value="and at least 8 long" />
+      <item value="digits" />
+      <item value="and at least 8 digits long" />
+      <item value="并且长度至少8位" />
+      <item value="And the length is 8 digits" />
+      <item value="并且长度11位" />
+      <item value="长度11位" />
+      <item value="Please confirm whether the 'phoneNumber' is a pure number" />
       <item value="Please confirm whether the projectId is a pure number" />
       <item value="Please confirm whether the parameter is a pure number" />
       <item value="请确认参数是否为纯数字" />
@@ -43,22 +54,11 @@
       <item value="Server Endpoint Exporter" />
       <item value="someone should add it!" />
       <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
-      <item value="Bridge Enter Event" />
-      <item value="shutdown" />
-      <item value="agentcalled" />
-      <item value="holdedcall" />
-      <item value="ANSWER" />
-      <item value="INUSE" />
-      <item value="New State Event" />
-      <item value="Bridge Create Event" />
-      <item value="New Connected Line Event" />
-      <item value="Dial Begin Event" />
-      <item value="A dial event is triggered whenever a phone attempts to dial someone. This event is implemented in appsapp_dial.c." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
