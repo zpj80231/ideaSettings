@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="real" />
+      <item value="real Middle Number" />
       <item value="Please confirm whether the 'projectId' is a pure number and at least 8 bits" />
       <item value="and at least 8 bits" />
       <item value="并且至少8位" />
@@ -52,13 +54,11 @@
       <item value="(no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Cannot construct instance of `org.asteriskjava.manager.event.BridgeEnterEvent` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
       <item value="Server Endpoint Exporter" />
-      <item value="someone should add it!" />
-      <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
