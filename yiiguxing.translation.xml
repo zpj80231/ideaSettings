@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="请求头" />
+      <item value="qing'qiu" />
       <item value="三" />
       <item value="三方" />
       <item value="san" />
@@ -52,13 +54,11 @@
       <item value="数字jia'mi" />
       <item value="数字jie" />
       <item value="shu'zi" />
-      <item value="shu" />
-      <item value="Slow processing of event com.dky.asterisk.manager.listener.DkyManagerEventListener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
