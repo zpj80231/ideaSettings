@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="CRLF" />
       <item value="请求头" />
       <item value="qing'qiu" />
       <item value="三" />
@@ -53,12 +54,11 @@
       <item value="数字加密" />
       <item value="数字jia'mi" />
       <item value="数字jie" />
-      <item value="shu'zi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
