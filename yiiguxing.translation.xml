@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="三" />
+      <item value="三方" />
+      <item value="san" />
       <item value="real" />
       <item value="real Middle Number" />
       <item value="Please confirm whether the 'projectId' is a pure number and at least 8 bits" />
@@ -51,14 +54,11 @@
       <item value="shu'zi" />
       <item value="shu" />
       <item value="Slow processing of event com.dky.asterisk.manager.listener.DkyManagerEventListener" />
-      <item value="(no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
-      <item value="Cannot construct instance of `org.asteriskjava.manager.event.BridgeEnterEvent` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)" />
-      <item value="Server Endpoint Exporter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
