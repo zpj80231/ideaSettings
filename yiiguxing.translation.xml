@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="cloud communication" />
+      <item value="云通信" />
+      <item value="云通信小号" />
+      <item value="云通信小号系统" />
       <item value="CRLF" />
       <item value="请求头" />
       <item value="qing'qiu" />
@@ -50,15 +54,11 @@
       <item value="获取" />
       <item value="huo'qu" />
       <item value="huo" />
-      <item value="手机号" />
-      <item value="数字加密" />
-      <item value="数字jia'mi" />
-      <item value="数字jie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="296" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
