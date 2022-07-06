@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="dky-call-center" />
       <item value="Cloudvox - answer and control a phone call with Java Place and receive phone calls via open API: http:cloudvox.com Learn about call scripting, AsteriskAGI, voice apps: http:help.cloudvox.com Added to the project and modified by Tropo: http:tropo.com" />
       <item value="cloud communication" />
       <item value="云通信" />
@@ -53,12 +54,11 @@
       <item value="获取zhong'jian" />
       <item value="获取zh" />
       <item value="获取" />
-      <item value="huo'qu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
