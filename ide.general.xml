@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="10" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
