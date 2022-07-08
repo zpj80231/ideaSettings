@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:macrozheng/mall-tiny.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:yangzongzhuan/RuoYi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
