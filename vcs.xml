@@ -26,6 +26,14 @@
           <option name="url" value="git@github.com:yangzongzhuan/RuoYi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.199.135:8088/yangfuya/dky-call.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://114.116.199.135:8088" />
+          <option name="userName" value="zhangpengjun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
