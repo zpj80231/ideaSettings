@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+  </component>
+</application>
