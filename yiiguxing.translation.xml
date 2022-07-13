@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="SUCCESS" />
       <item value="生产" />
       <item value="sheng'c" />
       <item value="生成" />
@@ -53,12 +54,11 @@
       <item value="手机号加解密guo'ju'l" />
       <item value="手机号加解密" />
       <item value="手机号jia" />
-      <item value="手机号ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
@@ -69,6 +69,7 @@
     <option name="lastTrimTime" value="1657505426084" />
   </component>
   <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
