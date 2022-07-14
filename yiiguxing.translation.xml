@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Constraint Validator" />
+      <item value="Condiction Vaildation" />
       <item value="original Sign" />
       <item value="discription" />
       <item value="SUCCESS" />
@@ -52,13 +54,11 @@
       <item value="Illegal Argument Exception" />
       <item value="手机号加解密工具类" />
       <item value="手机号加解密g'n" />
-      <item value="手机号加解密g" />
-      <item value="手机号加解密guo'ju'l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
