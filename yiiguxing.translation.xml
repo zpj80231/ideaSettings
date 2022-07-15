@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plaintext request" />
       <item value="corp secret" />
       <item value="data Decoded" />
       <item value="Constraint Validator" />
@@ -54,12 +55,11 @@
       <item value="Please confirm whether the projectId is a pure number" />
       <item value="Please confirm whether the parameter is a pure number" />
       <item value="请确认参数是否为纯数字" />
-      <item value="Illegal Argument Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
