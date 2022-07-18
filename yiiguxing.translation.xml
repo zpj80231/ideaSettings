@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plaintext Request" />
       <item value="validated Common Request Param" />
       <item value="validate" />
       <item value="validate All" />
@@ -54,12 +55,11 @@
       <item value="And the length is 8 digits" />
       <item value="并且长度11位" />
       <item value="长度11位" />
-      <item value="Please confirm whether the 'phoneNumber' is a pure number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
