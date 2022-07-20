@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MILLISECONDS" />
       <item value="original" />
       <item value="Param" />
       <item value="Positive" />
@@ -54,12 +55,11 @@
       <item value="and at least 8 long" />
       <item value="digits" />
       <item value="and at least 8 digits long" />
-      <item value="并且长度至少8位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
