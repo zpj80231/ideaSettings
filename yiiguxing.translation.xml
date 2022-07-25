@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="AsteriskManager logoff sucessfully." />
+      <item value="producer Model" />
+      <item value="producer-model" />
+      <item value="consumer-model" />
+      <item value="producer-pattern" />
+      <item value="pattern" />
       <item value="validated Common Request" />
       <item value="assignable" />
       <item value="last destination" />
@@ -49,17 +55,11 @@
       <item value="云通信小号系统" />
       <item value="CRLF" />
       <item value="请求头" />
-      <item value="qing'qiu" />
-      <item value="三" />
-      <item value="三方" />
-      <item value="san" />
-      <item value="real" />
-      <item value="real Middle Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
