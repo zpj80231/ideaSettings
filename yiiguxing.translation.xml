@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="acknowledge" />
       <item value="success And Plaintext" />
       <item value="success Plaintext" />
       <item value="Startup" />
@@ -54,12 +55,11 @@
       <item value="dky-call-center" />
       <item value="Cloudvox - answer and control a phone call with Java Place and receive phone calls via open API: http:cloudvox.com Learn about call scripting, AsteriskAGI, voice apps: http:help.cloudvox.com Added to the project and modified by Tropo: http:tropo.com" />
       <item value="cloud communication" />
-      <item value="云通信" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
