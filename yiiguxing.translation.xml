@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Startup" />
+      <item value="auto Startup" />
       <item value="AsteriskManager logoff sucessfully." />
       <item value="producer Model" />
       <item value="producer-model" />
@@ -53,13 +55,11 @@
       <item value="云通信" />
       <item value="云通信小号" />
       <item value="云通信小号系统" />
-      <item value="CRLF" />
-      <item value="请求头" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
