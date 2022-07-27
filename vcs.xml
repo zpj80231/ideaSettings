@@ -38,6 +38,10 @@
           <option name="url" value="http://114.116.199.135:8088/java/asterisk-dky.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:macrozheng/mall-swarm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
