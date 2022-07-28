@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="received the value 'Dead_ThirdParty_Exchange' of type 'longstr' but current is none," />
       <item value="toolbar" />
       <item value="Invalid Definition Exception" />
       <item value="acknowledge" />
@@ -54,12 +55,11 @@
       <item value="bao'miao" />
       <item value="Ajax" />
       <item value="Ajax Result" />
-      <item value="dky-call-center" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
