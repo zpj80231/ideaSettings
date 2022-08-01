@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Illegal base64 character 7b" />
+      <item value="Required request parameter 'calloutjson' for method parameter type String is not present" />
+      <item value="Error parsing HTTP request header" />
+      <item value="Request header is too large" />
       <item value="dead Letter Exchange" />
       <item value="inequivalent arg 'x-dead-letter-routing-key' for queue 'HangupEvent_Queue' in vhost '': received 'dead.thirdparty.key' but current is 'Dead_ThirdParty_Queue'" />
       <item value="declare" />
@@ -51,15 +55,11 @@
       <item value="Assertions" />
       <item value="代理" />
       <item value="加强" />
-      <item value="jia'q" />
-      <item value="增强" />
-      <item value="report" />
-      <item value="报表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
