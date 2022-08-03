@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Job Log File Name" />
+      <item value="get Shard Total" />
       <item value="corp Secret" />
       <item value="task" />
       <item value="multiple" />
@@ -53,13 +55,11 @@
       <item value="corp secret" />
       <item value="data Decoded" />
       <item value="Constraint Validator" />
-      <item value="Condiction Vaildation" />
-      <item value="original Sign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
