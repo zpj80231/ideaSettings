@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="task" />
       <item value="multiple" />
       <item value="Retry Policy Exhausted" />
       <item value="MAX NUMBER OF RETRIES" />
@@ -54,12 +55,11 @@
       <item value="Condiction Vaildation" />
       <item value="original Sign" />
       <item value="discription" />
-      <item value="SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
