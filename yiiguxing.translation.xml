@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DEFAULT GENERATE FEATURE" />
       <item value="Quote Field Names" />
       <item value="Ignore Non Field Getter" />
       <item value="cainozoic" />
@@ -54,12 +55,11 @@
       <item value="Param" />
       <item value="Positive" />
       <item value="plaintext Request" />
-      <item value="validated Common Request Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
