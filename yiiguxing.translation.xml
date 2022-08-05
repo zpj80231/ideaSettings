@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cainozoic" />
+      <item value="dying" />
+      <item value="finalize" />
       <item value="digest" />
       <item value="get Job Log File Name" />
       <item value="get Shard Total" />
@@ -52,14 +55,11 @@
       <item value="validated Common Request Param" />
       <item value="validate" />
       <item value="validate All" />
-      <item value="plaintext request" />
-      <item value="corp secret" />
-      <item value="data Decoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
