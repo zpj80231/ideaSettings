@@ -6,6 +6,8 @@
 2. File | Settings Repository指定远程仓库地址 (自己在github或者gitee上新建一个空的git仓库即可)
 3. Overwrite Local or Overwrite Remote
 
+推荐下载：2021.1.3版本（搭配试用30天到期自动续期插件永久免费食用），IDEA官方历史版本下载地址：[https://www.jetbrains.com/idea/download/other.html](https://www.jetbrains.com/idea/download/other.html)
+
 ## 常用配置
 
 看这两个就行：
