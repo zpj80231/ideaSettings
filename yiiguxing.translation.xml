@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="all Of By Instance Of" />
+      <item value="one Of By Instance Of" />
       <item value="get Stack Trace" />
       <item value="get Package Stack" />
       <item value="DEFAULT GENERATE FEATURE" />
@@ -53,13 +55,11 @@
       <item value="Conditional On Single Candidate" />
       <item value="Third Party Public Param" />
       <item value="MILLISECONDS" />
-      <item value="original" />
-      <item value="Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
