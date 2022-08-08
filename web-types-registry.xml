@@ -18,6 +18,9 @@
       <version value="1.0.1-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.1-2.tgz" />
       <version value="1.0.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.0-2.tgz" />
     </package>
+    <package name="@web-types/lit">
+      <version value="2.0.0-3" url="https://registry.npmjs.org/@web-types/lit/-/lit-2.0.0-3.tgz" />
+    </package>
     <package name="@web-types/quasar">
       <version value="1.1.0-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.1.0-1.tgz" />
       <version value="1.0.5-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.5-1.tgz" />
