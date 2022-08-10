@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="model" />
       <item value="Media Type" />
       <item value="RANDOM PORT" />
       <item value="is Assignable" />
@@ -54,12 +55,11 @@
       <item value="validated Common Request" />
       <item value="assignable" />
       <item value="last destination" />
-      <item value="destination" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
