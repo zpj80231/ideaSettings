@@ -3,6 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="generateWithIfTest" value="true" />
+        <option name="mybatisGeneratorModelSuffix" value="Entity" />
         <option name="useD1" value="1660294975877" />
         <option name="valid" value="true" />
       </Profile>
