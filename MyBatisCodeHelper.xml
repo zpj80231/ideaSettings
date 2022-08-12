@@ -1,7 +1,9 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile />
+      <Profile>
+        <option name="valid" value="true" />
+      </Profile>
     </option>
   </component>
 </application>
