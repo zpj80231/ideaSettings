@@ -4,7 +4,6 @@
       <Profile>
         <option name="generateWithIfTest" value="true" />
         <option name="mybatisGeneratorModelSuffix" value="Entity" />
-        <option name="theUsageCount" value="1663146371443" />
         <option name="valid" value="true" />
       </Profile>
     </option>
