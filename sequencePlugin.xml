@@ -1,0 +1,5 @@
+<application>
+  <component name="sequenceParams">
+    <option name="noConstructors" value="true" />
+  </component>
+</application>
