@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="caller" />
+      <item value="callee" />
+      <item value="called Party" />
+      <item value="calling Party" />
       <item value="disposition" />
       <item value="has been listened" />
       <item value="command" />
@@ -51,15 +55,11 @@
       <item value="acknowledge" />
       <item value="success And Plaintext" />
       <item value="success Plaintext" />
-      <item value="Startup" />
-      <item value="auto Startup" />
-      <item value="AsteriskManager logoff sucessfully." />
-      <item value="producer Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
