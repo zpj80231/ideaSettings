@@ -1,6 +1,7 @@
 <application>
   <component name="ConfigState">
     <option name="longNum" value="自动" />
+    <option name="uninstallFlag" value="false" />
     <option name="disabledFlag" value="false" />
   </component>
 </application>
