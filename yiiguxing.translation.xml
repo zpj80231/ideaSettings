@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Enabled" />
+      <item value="is Credentials Non Expired" />
+      <item value="is Account Non Locked" />
       <item value="Authentication Entry Point" />
       <item value="Access Denied Handler" />
       <item value="commence" />
@@ -52,14 +55,11 @@
       <item value="dead Letter Exchange" />
       <item value="inequivalent arg 'x-dead-letter-routing-key' for queue 'HangupEvent_Queue' in vhost '': received 'dead.thirdparty.key' but current is 'Dead_ThirdParty_Queue'" />
       <item value="declare" />
-      <item value="durable" />
-      <item value="received the value 'Dead_ThirdParty_Exchange' of type 'longstr' but current is none," />
-      <item value="toolbar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
