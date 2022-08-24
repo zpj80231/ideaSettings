@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bearer" />
       <item value="is Enabled" />
       <item value="is Credentials Non Expired" />
       <item value="is Account Non Locked" />
@@ -54,12 +55,11 @@
       <item value="Request header is too large" />
       <item value="dead Letter Exchange" />
       <item value="inequivalent arg 'x-dead-letter-routing-key' for queue 'HangupEvent_Queue' in vhost '': received 'dead.thirdparty.key' but current is 'Dead_ThirdParty_Queue'" />
-      <item value="declare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
