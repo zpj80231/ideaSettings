@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="security" />
       <item value="caller" />
       <item value="callee" />
       <item value="called Party" />
@@ -54,12 +55,11 @@
       <item value="Invalid Definition Exception" />
       <item value="acknowledge" />
       <item value="success And Plaintext" />
-      <item value="success Plaintext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
