@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
       <item value="authorization" />
       <item value="Bearer" />
       <item value="is Enabled" />
@@ -54,12 +55,11 @@
       <item value="Required request parameter 'calloutjson' for method parameter type String is not present" />
       <item value="Error parsing HTTP request header" />
       <item value="Request header is too large" />
-      <item value="dead Letter Exchange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
