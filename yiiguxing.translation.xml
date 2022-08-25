@@ -5,8 +5,10 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
+      <item value="authorization username obtained from token" />
+      <item value="obtained" />
       <item value="authorization" />
+      <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
       <item value="Bearer" />
       <item value="is Enabled" />
       <item value="is Credentials Non Expired" />
@@ -53,13 +55,11 @@
       <item value="Input byte array has wrong 4-byte ending unit" />
       <item value="Illegal base64 character 7b" />
       <item value="Required request parameter 'calloutjson' for method parameter type String is not present" />
-      <item value="Error parsing HTTP request header" />
-      <item value="Request header is too large" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
