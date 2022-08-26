@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="locksignal" />
       <item value="总计" />
       <item value="authorization username obtained from token" />
       <item value="obtained" />
@@ -54,12 +55,11 @@
       <item value="MAXIMUM" />
       <item value="MAXIMUM NUMBER OF RETRIES" />
       <item value="Input byte array has wrong 4-byte ending unit" />
-      <item value="Illegal base64 character 7b" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
