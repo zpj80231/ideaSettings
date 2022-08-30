@@ -8,7 +8,9 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

@@ -1,0 +1,101 @@
+<application>
+  <component name="fastRequest">
+    <option name="defaultDataMappingList">
+      <list>
+        <DataMapping>
+          <option name="type" value="byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="int" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Integer" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="char" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Character" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.math.BigDecimal" />
+          <option name="value" value="1" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="paramGroup">
+      <ParamGroup>
+        <option name="className" value="com.dky.notice.controller.ProductController" />
+        <option name="method" value="product" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="dky-notice" />
+        <option name="originUrl" value="/product/{count}/{routingKey}" />
+        <option name="pathParamMap">
+          <map>
+            <entry key="count">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="routingKey">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ParamGroup>
+    </option>
+    <option name="randomStringLength" value="5" />
+  </component>
+</application>
