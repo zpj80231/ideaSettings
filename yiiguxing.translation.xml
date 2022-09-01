@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="single Digit" />
+      <item value="digits" />
       <item value="INVALIDARGS" />
       <item value="Blind Transfer Event" />
       <item value="Bridge Create Event" />
@@ -53,13 +55,11 @@
       <item value="cainozoic" />
       <item value="dying" />
       <item value="finalize" />
-      <item value="digest" />
-      <item value="get Job Log File Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATVIAN" value="1" />
