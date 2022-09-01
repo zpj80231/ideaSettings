@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="number Before Encryption" />
+      <item value="decode after encryption" />
+      <item value="decode before" />
+      <item value="encryption" />
+      <item value="decode before decrypt" />
+      <item value="encode before encryption" />
       <item value="single Digit" />
       <item value="digits" />
       <item value="INVALIDARGS" />
@@ -49,17 +55,11 @@
       <item value="one Of By Instance Of" />
       <item value="get Stack Trace" />
       <item value="get Package Stack" />
-      <item value="DEFAULT GENERATE FEATURE" />
-      <item value="Quote Field Names" />
-      <item value="Ignore Non Field Getter" />
-      <item value="cainozoic" />
-      <item value="dying" />
-      <item value="finalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATVIAN" value="1" />
