@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="retrofit Content" />
       <item value="first time this request being called, so perform security checking" />
       <item value="Access failed, permission exception" />
       <item value="FACILITY_REJECTED" />
@@ -54,12 +55,11 @@
       <item value="model" />
       <item value="Media Type" />
       <item value="RANDOM PORT" />
-      <item value="is Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATVIAN" value="1" />
