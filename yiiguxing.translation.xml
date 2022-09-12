@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plaintext" />
       <item value="modified Content Before Push" />
       <item value="dest Alias" />
       <item value="retrofit Content" />
@@ -54,12 +55,11 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mybatisPlusInterceptor' defined in class path resource [comasteriskthirdpartyconfigMyBatisPlusConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor]: Factory method 'mybatisPlusInterceptor' threw exception; nested exception is java.lang.NoSuchMethodError: net.sf.jsqlparser.statement.select.SelectExpressionItem.withAlias(LnetsfjsqlparserexpressionAlias;)LnetsfjsqlparserstatementselectSelectExpressionItem;" />
       <item value="imall notice all consumers are started" />
       <item value="notice all consumers are started" />
-      <item value="model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="471" />
+        <entry key="ENGLISH" value="472" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
