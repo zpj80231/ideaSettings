@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="modified Content Before Push" />
       <item value="dest Alias" />
       <item value="retrofit Content" />
       <item value="first time this request being called, so perform security checking" />
@@ -54,12 +55,11 @@
       <item value="imall notice all consumers are started" />
       <item value="notice all consumers are started" />
       <item value="model" />
-      <item value="Media Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
