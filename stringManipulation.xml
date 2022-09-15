@@ -2,7 +2,7 @@
   <component name="StringManipulationState">
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToScreamingSnakeCaseAction" />
       </UniversalActionModel>
     </option>
   </component>
