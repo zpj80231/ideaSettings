@@ -5,6 +5,20 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ResponseEvent without internalActionId: this happens if the same event class is used as response event and as an event that is not triggered by a Manager command Example: QueueMemberStatusEvent. logger.debug(&quot;ResponseEvent without &quot; + &quot;internalActionId:\n&quot; + responseEvent);" />
+      <item value="Some events need special treatment besides forwarding them to the registered eventListeners (clients) These events are handled here at first:" />
+      <item value="fire Event" />
+      <item value="received the news" />
+      <item value="file" />
+      <item value="Please file a bug." />
+      <item value="caller Id Num" />
+      <item value="you should expect problems to follow." />
+      <item value="follow" />
+      <item value="&quot;Unable to determine asterisk version, assuming" />
+      <item value="identifier" />
+      <item value="protocol" />
+      <item value="Got asterisk protocol identifier version" />
+      <item value="Lockable List" />
       <item value="agent Logout" />
       <item value="AGENT LOGGIN PREFIX" />
       <item value="plaintext" />
@@ -41,28 +55,14 @@
       <item value="Bearer" />
       <item value="is Enabled" />
       <item value="is Credentials Non Expired" />
-      <item value="is Account Non Locked" />
-      <item value="Authentication Entry Point" />
-      <item value="Access Denied Handler" />
-      <item value="commence" />
-      <item value="security" />
-      <item value="caller" />
-      <item value="callee" />
-      <item value="called Party" />
-      <item value="calling Party" />
-      <item value="disposition" />
-      <item value="has been listened" />
-      <item value="command" />
-      <item value="pad block corrupted" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mybatisPlusInterceptor' defined in class path resource [comasteriskthirdpartyconfigMyBatisPlusConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor]: Factory method 'mybatisPlusInterceptor' threw exception; nested exception is java.lang.NoSuchMethodError: net.sf.jsqlparser.statement.select.SelectExpressionItem.withAlias(LnetsfjsqlparserexpressionAlias;)LnetsfjsqlparserstatementselectSelectExpressionItem;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
