@@ -5,7 +5,10 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cleanup Action Listeners" />
       <item value="ResponseEvent without internalActionId: this happens if the same event class is used as response event and as an event that is not triggered by a Manager command Example: QueueMemberStatusEvent. logger.debug(&quot;ResponseEvent without &quot; + &quot;internalActionId:\n&quot; + responseEvent);" />
+      <item value="if this turns out to be slow, we could consider caching the" />
+      <item value="dispatch Legacy Event If Needed" />
       <item value="Some events need special treatment besides forwarding them to the registered eventListeners (clients) These events are handled here at first:" />
       <item value="fire Event" />
       <item value="received the news" />
@@ -52,14 +55,11 @@
       <item value="obtained" />
       <item value="authorization" />
       <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
-      <item value="Bearer" />
-      <item value="is Enabled" />
-      <item value="is Credentials Non Expired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="2" />
