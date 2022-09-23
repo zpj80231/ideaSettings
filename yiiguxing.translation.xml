@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="try to reconnect quite fast for the firt 10 times this succeeds if the server has just been restarted" />
+      <item value="now the DisconnectEvent is dispatched to registered eventListeners (clients) and after that the ManagerReaderThread is gone. So effectively we replaced the reader thread by a ReconnectThread." />
+      <item value="close socket if still open and remove reference to readerThread After sending the DisconnectThread that thread will die anyway." />
       <item value="cleanup Action Listeners" />
       <item value="ResponseEvent without internalActionId: this happens if the same event class is used as response event and as an event that is not triggered by a Manager command Example: QueueMemberStatusEvent. logger.debug(&quot;ResponseEvent without &quot; + &quot;internalActionId:\n&quot; + responseEvent);" />
       <item value="if this turns out to be slow, we could consider caching the" />
@@ -52,14 +55,11 @@
       <item value="locksignal" />
       <item value="总计" />
       <item value="authorization username obtained from token" />
-      <item value="obtained" />
-      <item value="authorization" />
-      <item value="The event class org.asteriskjava.manager.event.HangupEvent couldn't be mapped to a method in AbstractManagerEventListener.java, someone should add it!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="2" />
