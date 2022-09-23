@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="originate" />
       <item value="try to reconnect quite fast for the firt 10 times this succeeds if the server has just been restarted" />
       <item value="now the DisconnectEvent is dispatched to registered eventListeners (clients) and after that the ManagerReaderThread is gone. So effectively we replaced the reader thread by a ReconnectThread." />
       <item value="close socket if still open and remove reference to readerThread After sending the DisconnectThread that thread will die anyway." />
@@ -54,12 +55,11 @@
       <item value="telb addr" />
       <item value="locksignal" />
       <item value="总计" />
-      <item value="authorization username obtained from token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="2" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663472962528" />
+    <option name="lastTrimTime" value="1663910957148" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
