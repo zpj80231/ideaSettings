@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="manner" />
       <item value="originate" />
       <item value="try to reconnect quite fast for the firt 10 times this succeeds if the server has just been restarted" />
       <item value="now the DisconnectEvent is dispatched to registered eventListeners (clients) and after that the ManagerReaderThread is gone. So effectively we replaced the reader thread by a ReconnectThread." />
@@ -54,12 +55,11 @@
       <item value="telb address" />
       <item value="telb addr" />
       <item value="locksignal" />
-      <item value="总计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="2" />
