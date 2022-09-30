@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A BridgeEvent is triggered when a link between two voice channels is established (&quot;Link&quot;) or discontinued (&quot;Unlink&quot;). As of Asterisk 1.6 the Bridge event is reported directly by Asterisk. Asterisk versions up to 1.4 report individual events: LinkEvent and UnlinkEvent.For maximum compatibily do not use the Link and Unlink events in your code. Just use the Bridge event and check for isLink() and isUnlink(). It is implemented in channel.c" />
       <item value="manner" />
       <item value="originate" />
       <item value="try to reconnect quite fast for the firt 10 times this succeeds if the server has just been restarted" />
@@ -54,7 +55,6 @@
       <item value="Music On Hold Start Event" />
       <item value="telb address" />
       <item value="telb addr" />
-      <item value="locksignal" />
     </histories>
     <option name="languageScores">
       <map>
