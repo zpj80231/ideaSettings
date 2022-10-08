@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="INUSE" />
       <item value="UNAVAILABLE" />
       <item value="hint" />
       <item value="Bridge Exec Event" />
@@ -54,7 +55,6 @@
       <item value="Bridge Create Event" />
       <item value="Bridge Enter Event" />
       <item value="On Hold" />
-      <item value="Music On Hold Event" />
     </histories>
     <option name="languageScores">
       <map>
