@@ -74,26 +74,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.dky.notice.controller.ProductController" />
-        <option name="method" value="product" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="dky-notice" />
-        <option name="originUrl" value="/product/{count}/{routingKey}" />
-        <option name="pathParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="count">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="routingKey">
+            <entry key="vo">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
+        <option name="className" value="com.dky.thirdparty.modules.common.controller.AgentContorller" />
+        <option name="method" value="addagentgroup" />
+        <option name="methodDescription" value="坐席分组添加" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="dky-third-party" />
+        <option name="originUrl" value="/version-1.0.0/addagentgroup" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />
