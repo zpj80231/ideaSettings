@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
-    <option name="newTranslationDialogX" value="794" />
-    <option name="newTranslationDialogY" value="428" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogX" value="728" />
+    <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CHANUNAVAIL" />
       <item value="INUSE" />
       <item value="UNAVAILABLE" />
       <item value="hint" />
@@ -54,11 +56,10 @@
       <item value="Blind Transfer Event" />
       <item value="Bridge Create Event" />
       <item value="Bridge Enter Event" />
-      <item value="On Hold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
+        <entry key="CHINESE" value="497" />
         <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
