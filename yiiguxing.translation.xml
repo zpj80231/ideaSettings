@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set If Absent" />
       <item value="CHANUNAVAIL" />
       <item value="INUSE" />
       <item value="UNAVAILABLE" />
@@ -55,7 +56,6 @@
       <item value="INVALIDARGS" />
       <item value="Blind Transfer Event" />
       <item value="Bridge Create Event" />
-      <item value="Bridge Enter Event" />
     </histories>
     <option name="languageScores">
       <map>
