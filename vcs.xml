@@ -46,6 +46,10 @@
           <option name="url" value="http://192.168.1.248" />
           <option name="userName" value="zhangpj" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:xkcoding/spring-boot-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
