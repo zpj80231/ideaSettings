@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Get Charset From Content" />
       <item value="之前" />
       <item value="MINUTES" />
       <item value="set If Absent" />
@@ -55,7 +56,6 @@
       <item value="encode before encryption" />
       <item value="single Digit" />
       <item value="digits" />
-      <item value="INVALIDARGS" />
     </histories>
     <option name="languageScores">
       <map>
