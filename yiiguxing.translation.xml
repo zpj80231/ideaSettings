@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="number" />
       <item value="接口呼保存的用户自定义字段" />
       <item value="get Local Address" />
       <item value="is Get Charset From Content" />
@@ -55,7 +56,6 @@
       <item value="decode before" />
       <item value="encryption" />
       <item value="decode before decrypt" />
-      <item value="encode before encryption" />
     </histories>
     <option name="languageScores">
       <map>
