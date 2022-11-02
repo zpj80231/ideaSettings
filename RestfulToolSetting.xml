@@ -1,0 +1,13 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="Select Icon Scheme:" value="default" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>
