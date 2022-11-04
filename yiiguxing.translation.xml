@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="millis" />
       <item value="No eventType type in attributes or eventType type is not a String" />
       <item value="The resource pack allowance has been exhausted, please check your resource pack" />
       <item value="number" />
@@ -55,7 +56,6 @@
       <item value="AST_CAUSE_FACILITY_REJECTED" />
       <item value="number Before Encryption" />
       <item value="decode after encryption" />
-      <item value="decode before" />
     </histories>
     <option name="languageScores">
       <map>
