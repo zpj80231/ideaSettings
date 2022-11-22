@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MINUTES" />
+      <item value="MAX SAFE EVENT AGE" />
       <item value="idle Times" />
       <item value="queued" />
       <item value="millis" />
@@ -16,7 +18,6 @@
       <item value="get Local Address" />
       <item value="is Get Charset From Content" />
       <item value="之前" />
-      <item value="MINUTES" />
       <item value="set If Absent" />
       <item value="CHANUNAVAIL" />
       <item value="INUSE" />
@@ -55,7 +56,6 @@
       <item value="first time this request being called, so perform security checking" />
       <item value="Access failed, permission exception" />
       <item value="FACILITY_REJECTED" />
-      <item value="AST_CAUSE_FACILITY_REJECTED" />
     </histories>
     <option name="languageScores">
       <map>
