@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ServiceView.ShowServices" />
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
 </keymap>
