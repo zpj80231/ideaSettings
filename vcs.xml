@@ -50,6 +50,10 @@
           <option name="url" value="git@github.com:xkcoding/spring-boot-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codehub.devcloud.cn-north-4.huaweicloud.com" />
+          <option name="userName" value="zhangpengjun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
