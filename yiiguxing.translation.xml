@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="before Invocation" />
       <item value="MINUTES" />
       <item value="MAX SAFE EVENT AGE" />
       <item value="idle Times" />
@@ -55,7 +56,6 @@
       <item value="retrofit Content" />
       <item value="first time this request being called, so perform security checking" />
       <item value="Access failed, permission exception" />
-      <item value="FACILITY_REJECTED" />
     </histories>
     <option name="languageScores">
       <map>
