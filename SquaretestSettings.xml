@@ -3,6 +3,22 @@
     <option name="usageStatsEnabled" value="true" />
     <option name="projectNameToSettingsMap">
       <map>
+        <entry key="dky-call">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="dky-call" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
         <entry key="imall">
           <value>
             <ProjectSettings>
@@ -23,6 +39,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="dky-call_dky-task">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="dky-task" />
+              <option name="testDirectoryRoot" value="dky-task\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="imall_imall-mbg">
           <value>
             <ModuleSettings>
