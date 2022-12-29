@@ -54,6 +54,10 @@
           <option name="url" value="http://codehub.devcloud.cn-north-4.huaweicloud.com" />
           <option name="userName" value="zhangpengjun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/zhijiantianya/ruoyi-vue-pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
