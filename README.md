@@ -17,25 +17,32 @@
 
 ## 常用插件
 
-| 序号 | 名称                           | 备注                                                         |
-| ---- | :----------------------------- | ------------------------------------------------------------ |
-| 1    | Alibaba Java Coding Guidelines | 阿里编程规范，可以检查自己的java命名规范编程规范以及bug，并会给出相应的解决方案 |
-| 2    | Grep Console                   | 对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。 |
-| 3    | Kotlin                         | 项目中使用到了Kotlin可以安装，现idea默认已自带               |
-| 4    | Lombok                         | 以简单的注解形式简化POJO，现idea默认已自带                   |
-| 5    | Translation                    | 翻译                                                         |
-| 6    | JRebel                         | 热加载插件，  代码改动之后无需重启服务，被修改的类会自动重新加载，破解请自行百度<br/>或者参考：[JRebel插件使用详解](https://blog.csdn.net/lianghecai52171314/article/details/105637251)<br/>修改完Java代码后，就可以通过快捷键 Ctrl+shift+F9 刷新项目 |
-| 7    | CodeGlance                     | 类似于Sublime的右侧，整体代码滚动条，使用此插件可以查看缩略图一样，快速切换到自己需要去的地方~ |
-| 8    | Rainbow Brackets               | 彩色括号匹配                                                 |
-| 9    | Atom Material Icons            | 各种文件夹、文件图标                                         |
-| 10   | .ignore                        | 生成各种模板化的git忽略文件                                  |
-| 11   | MyBatis Log Free               | mybatis自己控制的参数编译有点反人类，选中需要转换的mybatis log日志，然后点击右键，选择Restore sql from slection<br/>这个版本免费：[地址](https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin) |
-| 12   | Free Mybatis plugin 或 MybatisX | 生成mapper xml文件<br/>快速从代码跳转到mapper及从mapper返回代码<br/>mybatis自动补全及语法错误提示<br/>集成mybatis generator gui界面<br/>根据数据库注解，生成swagger model注解 |
-| 13   | Maven Helper                   | 查找和排除冲突依赖项的简便方法                               |
-| 14   | RestfulTool                    | 1.根据 URL 直接跳转到对应的方法定义 ( Ctrl \ or Ctrl Alt N );<br/>2.提供了一个 Services tree 的显示窗口;<br/>3.一个简单的 http 请求工具;<br/>4.在请求方法上添加了有用功能: 复制生成 URL;,复制方法参数...<br/>5.其他功能: java 类上添加 Convert to JSON 功能，格式化 json 数据 ( Windows: Ctrl + Enter; Mac: Command + Enter )。 |
-| 15   | GenerateAllSetter              | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter |
-| 16   | codota                         | 需联网使用，代码智能自动补全，比idea自带的提示还要详细，你甚至可以直接搜索一个词的类似用法，看看大神是怎么写的。 |
-| 17   | IDE Eval Reset                 | 30天试用期无限循环（相当于破解）。<br/>1.添加第三方插件仓库`https://plugins.zhile.io`<br/>2.搜索：`IDE Eval Reset`插件进行安装<br/>3.在idea主界面help-->eval Reset点击重启idea<br/>或者参考：[idea 安装eval reset插件](https://blog.csdn.net/OracleOracolo/article/details/113886757) |
+| 序号 | 名称                                 | 备注                                                         |
+| ---- | :----------------------------------- | ------------------------------------------------------------ |
+| 1    | Alibaba Java Coding Guidelines       | 阿里编程规范，可以检查自己的java命名规范编程规范以及bug，并会给出相应的解决方案 |
+| 2    | Grep Console                         | 对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。 |
+| 3    | Kotlin                               | 项目中使用到了Kotlin可以安装，现idea默认已自带               |
+| 4    | Lombok                               | 以简单的注解形式简化POJO，现idea默认已自带                   |
+| 5    | Translation                          | 翻译                                                         |
+| 6    | JRebel                               | 热加载插件，  代码改动之后无需重启服务，被修改的类会自动重新加载，破解请自行百度<br/>或者参考：[JRebel插件使用详解](https://blog.csdn.net/lianghecai52171314/article/details/105637251)<br/>修改完Java代码后，就可以通过快捷键 Ctrl+shift+F9 刷新项目 |
+| 7    | CodeGlance Pro                       | 类似于Sublime的右侧，整体代码滚动条，使用此插件可以查看缩略图一样，快速切换到自己需要去的地方~ |
+| 8    | Rainbow Brackets                     | 彩色括号匹配                                                 |
+| 9    | Atom Material Icons                  | 各种文件夹、文件图标                                         |
+| 10   | .ignore                              | 生成各种模板化的git忽略文件                                  |
+| 11   | MyBatis Log Free 或 Mybatis Log Plus | mybatis自己控制的参数编译有点反人类，选中需要转换的mybatis log日志，然后点击右键，选择Restore sql from slection<br/>这个版本免费：[地址](https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin) |
+| 12   | Free Mybatis plugin 或 MybatisX      | 生成mapper xml文件<br/>快速从代码跳转到mapper及从mapper返回代码<br/>mybatis自动补全及语法错误提示<br/>集成mybatis generator gui界面<br/>根据数据库注解，生成swagger model注解 |
+| 13   | Maven Helper                         | 查找和排除冲突依赖项的简便方法                               |
+| 14   | RestfulTool                          | 1.根据 URL 直接跳转到对应的方法定义 ( Ctrl \ or Ctrl Alt N );<br/>2.提供了一个 Services tree 的显示窗口;<br/>3.一个简单的 http 请求工具;<br/>4.在请求方法上添加了有用功能: 复制生成 URL;,复制方法参数...<br/>5.其他功能: java 类上添加 Convert to JSON 功能，格式化 json 数据 ( Windows: Ctrl + Enter; Mac: Command + Enter )。 |
+| 15   | GenerateAllSetter                    | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter |
+| 16   | codota 或 Tabnine                    | 需联网使用，代码智能自动补全，比idea自带的提示还要详细，你甚至可以直接搜索一个词的类似用法，看看大神是怎么写的。 |
+| 17   | IDE Eval Reset                       | 30天试用期无限循环（相当于破解）。<br/>1.添加第三方插件仓库`https://plugins.zhile.io`<br/>2.搜索：`IDE Eval Reset`插件进行安装<br/>3.在idea主界面help-->eval Reset点击重启idea<br/>或者参考：[idea 安装eval reset插件](https://blog.csdn.net/OracleOracolo/article/details/113886757) |
+| 18   | arthas idea                          | 基于IntelliJ IDEA开发的 Alibaba Arthas 命令生成插件，支持 Alibaba Arthas 官方常用的命令。 |
+| 19   | Easy Javadoc                         | 能帮助开发者快速生成类、方法、属性等中文javadoc/kdoc，快捷键 Ctrl+\ |
+| 20   | GsonFormatPlus                       | 基于json生成java实体类                                       |
+| 21   | Key Promoter X                       | 对你的idea操作，会提示相应的快捷键是什么                     |
+| 22   | Save Action                          | 保存的时候进行格式化操作                                     |
+| 23   | Squaretest 或 TestMe                 | 生成单元测试                                                 |
+| 24   | String Manipulation                  | 对字符串的操作，支持大小写驼峰转换，字符串加解密等           |
 
 ## 主题
 
@@ -67,4 +74,3 @@
 ### 文件头注释
 
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000957_0a1a36f9_945727.png)
-
