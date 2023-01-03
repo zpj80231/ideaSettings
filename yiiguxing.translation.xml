@@ -78,11 +78,24 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672192489824" />
+    <option name="lastTrimTime" value="1672735254856" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="redundant" />
+      <item value="redun" />
+      <item value="red" />
+      <item value="re" />
       <item value="get End Of Always Push" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
 </application>
