@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Whether all the entries inside the cache(s) are removed. By default, only the value under the associated key is removed. Note that setting this parameter to true and specifying a key is not allowed." />
       <item value="redundant" />
       <item value="redun" />
       <item value="red" />
@@ -94,7 +95,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
