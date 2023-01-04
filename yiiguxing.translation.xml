@@ -81,10 +81,11 @@
     <option name="lastTrimTime" value="1672735254856" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="可以" />
       <item value="Whether all the entries inside the cache(s) are removed. By default, only the value under the associated key is removed. Note that setting this parameter to true and specifying a key is not allowed." />
       <item value="redundant" />
       <item value="redun" />
@@ -94,8 +95,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
