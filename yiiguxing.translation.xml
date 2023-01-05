@@ -85,6 +85,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="eturn the address on which the request was received." />
+      <item value="Return the address of the remote client." />
       <item value="data" />
       <item value="谷歌翻译" />
       <item value="ge" />
@@ -98,8 +100,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
