@@ -85,6 +85,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="period" />
+      <item value="initial Delay" />
+      <item value="schedule At Fixed Rate" />
+      <item value="An object reference that may be updated atomically. See the java.util.concurrent.atomic package specification for description of the properties of atomic variables." />
+      <item value="Set to true for fast origination. Only with fast origination Asterisk will send OriginateSuccess- and OriginateFailureEvents." />
+      <item value="Sends a ManagerAction to the Asterisk server and waits for the corresponding ManagerResponse. Params: action – the action to send to the Asterisk server timeout – milliseconds to wait for the response before throwing a TimeoutException Returns: the corresponding response received from the Asterisk server Throws: IOException – if the network connection is disrupted. TimeoutException – if no response is received within the given timeout period. IllegalArgumentException – if the action is null. IllegalStateException – if you are not connected to an Asterisk server. See Also: sendAction(ManagerAction, SendActionCallback)" />
       <item value="Returns a function that always returns its input argument. Type parameters: &lt;T&gt; – the type of the input and output objects to the function Returns: a function that always returns its input argument" />
       <item value="eturn the address on which the request was received." />
       <item value="Return the address of the remote client." />
@@ -101,8 +107,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
