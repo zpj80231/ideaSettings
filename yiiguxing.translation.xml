@@ -81,10 +81,11 @@
     <option name="lastTrimTime" value="1672735254856" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Error: Please specify npm scripts to run" />
       <item value="period" />
       <item value="initial Delay" />
       <item value="schedule At Fixed Rate" />
@@ -107,7 +108,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
