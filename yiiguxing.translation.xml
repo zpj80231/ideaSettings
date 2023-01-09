@@ -78,13 +78,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672735254856" />
+    <option name="lastTrimTime" value="1673254542035" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f9cf030] JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@96a1bf8] will be managed by Spring" />
       <item value="Error: Please specify npm scripts to run" />
       <item value="period" />
       <item value="initial Delay" />
@@ -109,7 +110,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
