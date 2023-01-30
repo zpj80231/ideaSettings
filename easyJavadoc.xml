@@ -1,6 +1,20 @@
 <application>
   <component name="easyJavadoc">
     <option name="author" value="zhangpengjun" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="dky-call">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="znote">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="simpleFieldDoc" value="true" />
   </component>
 </application>
