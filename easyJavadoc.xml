@@ -3,11 +3,7 @@
     <option name="author" value="zhangpengjun" />
     <option name="projectWordMap">
       <map>
-        <entry key="dky-call">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="dky-call" />
         <entry key="znote">
           <value>
             <map />
