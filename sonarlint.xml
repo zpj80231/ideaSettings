@@ -1,5 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S3252">
+          <value>
+            <Rule active="false" key="java:S3252" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S3252" />
+    </rules>
   </component>
 </application>
