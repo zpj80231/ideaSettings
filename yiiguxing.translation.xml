@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Creates a LinkedBlockingQueue with the given (fixed) capacity. Params: capacity – the capacity of this queue Throws: IllegalArgumentException – if capacity is not greater than zero" />
       <item value="deregister Event Class" />
       <item value="A dial event is triggered whenever a phone attempts to dial someone." />
       <item value="A StatusEvent is triggered for each active channel in response to a StatusAction." />
@@ -124,8 +125,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
