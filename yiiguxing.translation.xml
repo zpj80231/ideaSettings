@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the pointcut are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list." />
       <item value="Creates a LinkedBlockingQueue with the given (fixed) capacity. Params: capacity – the capacity of this queue Throws: IllegalArgumentException – if capacity is not greater than zero" />
       <item value="deregister Event Class" />
       <item value="A dial event is triggered whenever a phone attempts to dial someone." />
@@ -125,8 +126,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
