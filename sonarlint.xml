@@ -12,11 +12,17 @@
             <Rule active="false" key="java:S3252" />
           </value>
         </entry>
+        <entry key="java:S5786">
+          <value>
+            <Rule active="false" key="java:S5786" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
-      <Rule active="false" key="java:S3252" />
       <Rule active="false" key="java:S125" />
+      <Rule active="false" key="java:S5786" />
+      <Rule active="false" key="java:S3252" />
     </rules>
   </component>
 </application>
