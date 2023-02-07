@@ -85,6 +85,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="deregister Event Class" />
+      <item value="A dial event is triggered whenever a phone attempts to dial someone." />
+      <item value="A StatusEvent is triggered for each active channel in response to a StatusAction." />
+      <item value="A VarSetEvent is triggered when a channel or global variable is set in Asterisk." />
       <item value="A MonitorStartEvent indicates that monitoring was started on a channel. Available since Asterisk 1.6. It is implemented in resres_monitor.c" />
       <item value="Queue Member Event" />
       <item value="wrapuptime" />
@@ -120,8 +124,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
