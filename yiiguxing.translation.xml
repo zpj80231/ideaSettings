@@ -78,13 +78,16 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675129705933" />
+    <option name="lastTrimTime" value="1675732885666" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="A MonitorStartEvent indicates that monitoring was started on a channel. Available since Asterisk 1.6. It is implemented in resres_monitor.c" />
+      <item value="Queue Member Event" />
+      <item value="wrapuptime" />
       <item value="cursor" />
       <item value="完事顺利" />
       <item value="完事" />
@@ -117,8 +120,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
