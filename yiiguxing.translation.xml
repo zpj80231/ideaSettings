@@ -78,13 +78,17 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675732885666" />
+    <option name="lastTrimTime" value="1676958099988" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Compiles the given regular expression into a pattern with the given flags. Params: regex – The expression to be compiled flags – Match flags, a bit mask that may include CASE_INSENSITIVE, MULTILINE, DOTALL, UNICODE_CASE, CANON_EQ, UNIX_LINES, LITERAL, UNICODE_CHARACTER_CLASS and COMMENTS Returns: the given regular expression compiled into a pattern with the given flags Throws: IllegalArgumentException – If bit values other than those corresponding to the defined match flags are set in flags PatternSyntaxException – If the expression's syntax is invalid" />
       <item value="compile" />
       <item value="encrypted Number Character" />
       <item value="Please fill [Preference -&gt; Apifox Helper -&gt; Personal Access Token] before uploading APIs." />
@@ -135,8 +139,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
