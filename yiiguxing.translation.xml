@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Please fill [Preference -&gt; Apifox Helper -&gt; Personal Access Token] before uploading APIs." />
       <item value="Unable to dispatch null event. This should never happen. Please file a bug. msg" />
       <item value="refactor" />
       <item value="Backwards compatibility for bridge events. Asterisk 13 uses BridgeCreate, BridgeEnter, BridgeLeave and BridgeDestroy events. So here we track active bridges and simulate BridgeEvent's for them allowing legacy code to still work with BridgeEvent's" />
