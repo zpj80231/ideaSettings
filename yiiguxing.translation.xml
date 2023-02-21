@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="compile" />
       <item value="encrypted Number Character" />
       <item value="Please fill [Preference -&gt; Apifox Helper -&gt; Personal Access Token] before uploading APIs." />
       <item value="Unable to dispatch null event. This should never happen. Please file a bug. msg" />
