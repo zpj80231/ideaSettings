@@ -88,6 +88,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Returns the name of the Asterisk server from which this event has been received. This property is only available when using to AstManProxy. Returns: the name of the Asterisk server from which this event has been received or null when directly connected to an Asterisk server instead of AstManProxy." />
+      <item value="Returns the timestamp for this event. The timestamp property is available in Asterisk since 1.4 if enabled in manager.conf by setting timestampevents = yes. In contains the time the event was generated in seconds since the epoch. Example: 1159310429.569108 Returns: the timestamp for this event." />
+      <item value="The server from which this event has been received (only used with AstManProxy)." />
+      <item value="The point in time this event has been received from the Asterisk server." />
+      <item value="The object on which the Event initially occurred." />
       <item value="Compiles the given regular expression into a pattern with the given flags. Params: regex – The expression to be compiled flags – Match flags, a bit mask that may include CASE_INSENSITIVE, MULTILINE, DOTALL, UNICODE_CASE, CANON_EQ, UNIX_LINES, LITERAL, UNICODE_CHARACTER_CLASS and COMMENTS Returns: the given regular expression compiled into a pattern with the given flags Throws: IllegalArgumentException – If bit values other than those corresponding to the defined match flags are set in flags PatternSyntaxException – If the expression's syntax is invalid" />
       <item value="compile" />
       <item value="encrypted Number Character" />
@@ -133,14 +138,11 @@
       <item value="Whether all the entries inside the cache(s) are removed. By default, only the value under the associated key is removed. Note that setting this parameter to true and specifying a key is not allowed." />
       <item value="redundant" />
       <item value="redun" />
-      <item value="red" />
-      <item value="re" />
-      <item value="get End Of Always Push" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
