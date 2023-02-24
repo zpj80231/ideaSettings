@@ -88,6 +88,16 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="eturns an unmodifiable view of the specified map. This method allows modules to provide users with &quot;read-only&quot; access to internal maps. Query operations on the returned map &quot;read through&quot; to the specified map, and attempts to modify the returned map, whether direct or via its collection views, result in an UnsupportedOperationException. The returned map will be serializable if the specified map is serializable. Params: m – the map for which an unmodifiable view is to be returned. Type parameters: &lt;K&gt; – the class of the map keys &lt;V&gt; – the class of the map values Returns: an unmodifiable view of the specified map." />
+      <item value="Channel has detected an incoming call and is waiting for ring." />
+      <item value="Digits (or equivalent) have been dialed while offhook." />
+      <item value="Line is busy." />
+      <item value="Line is up." />
+      <item value="Remote end is ringing." />
+      <item value="Digits (or equivalent) have been dialed." />
+      <item value="Channel is off hook." />
+      <item value="Channel is down, but reserved." />
+      <item value="Channel is down and available." />
       <item value="if this turns out to be slow, we could consider caching the" />
       <item value="Returns the name of the Asterisk server from which this event has been received. This property is only available when using to AstManProxy. Returns: the name of the Asterisk server from which this event has been received or null when directly connected to an Asterisk server instead of AstManProxy." />
       <item value="Returns the timestamp for this event. The timestamp property is available in Asterisk since 1.4 if enabled in manager.conf by setting timestampevents = yes. In contains the time the event was generated in seconds since the epoch. Example: 1159310429.569108 Returns: the timestamp for this event." />
@@ -128,21 +138,11 @@
       <item value="schedule At Fixed Rate" />
       <item value="An object reference that may be updated atomically. See the java.util.concurrent.atomic package specification for description of the properties of atomic variables." />
       <item value="Set to true for fast origination. Only with fast origination Asterisk will send OriginateSuccess- and OriginateFailureEvents." />
-      <item value="Sends a ManagerAction to the Asterisk server and waits for the corresponding ManagerResponse. Params: action – the action to send to the Asterisk server timeout – milliseconds to wait for the response before throwing a TimeoutException Returns: the corresponding response received from the Asterisk server Throws: IOException – if the network connection is disrupted. TimeoutException – if no response is received within the given timeout period. IllegalArgumentException – if the action is null. IllegalStateException – if you are not connected to an Asterisk server. See Also: sendAction(ManagerAction, SendActionCallback)" />
-      <item value="Returns a function that always returns its input argument. Type parameters: &lt;T&gt; – the type of the input and output objects to the function Returns: a function that always returns its input argument" />
-      <item value="eturn the address on which the request was received." />
-      <item value="Return the address of the remote client." />
-      <item value="data" />
-      <item value="谷歌翻译" />
-      <item value="ge" />
-      <item value="可以" />
-      <item value="Whether all the entries inside the cache(s) are removed. By default, only the value under the associated key is removed. Note that setting this parameter to true and specifying a key is not allowed." />
-      <item value="redundant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
