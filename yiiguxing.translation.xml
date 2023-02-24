@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="if this turns out to be slow, we could consider caching the" />
       <item value="Returns the name of the Asterisk server from which this event has been received. This property is only available when using to AstManProxy. Returns: the name of the Asterisk server from which this event has been received or null when directly connected to an Asterisk server instead of AstManProxy." />
       <item value="Returns the timestamp for this event. The timestamp property is available in Asterisk since 1.4 if enabled in manager.conf by setting timestampevents = yes. In contains the time the event was generated in seconds since the epoch. Example: 1159310429.569108 Returns: the timestamp for this event." />
       <item value="The server from which this event has been received (only used with AstManProxy)." />
@@ -137,12 +138,11 @@
       <item value="可以" />
       <item value="Whether all the entries inside the cache(s) are removed. By default, only the value under the associated key is removed. Note that setting this parameter to true and specifying a key is not allowed." />
       <item value="redundant" />
-      <item value="redun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
