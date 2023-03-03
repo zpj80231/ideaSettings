@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="A HangupEvent is triggered when a channel is requested hung up." />
       <item value="AST STATE UP" />
       <item value="Returns the new state of the channel as a descriptive text. This is an alias for getChannelStateDesc(). Deprecated as of 1.0.0, use getChannelStateDesc() instead or even better switch to numeric values as returned by getChannelState(). Returns: the new state of the channel as a descriptive text." />
       <item value="additional" />
@@ -137,12 +138,11 @@
       <item value="Everything" />
       <item value="up-to-date" />
       <item value="Everything is up-to-date" />
-      <item value="All files are up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
