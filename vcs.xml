@@ -70,6 +70,10 @@
           <option name="url" value="git@gitee.com:zhijiantianya/yudao-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub.devcloud.cn-north-4.huaweicloud.com/TNCS00001/dky-tncs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
