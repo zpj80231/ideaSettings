@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Process terminated" />
       <item value="Merchant Service" />
       <item value="Merchant Acc Service" />
       <item value="assembling" />
@@ -137,12 +138,11 @@
       <item value="wrapuptime" />
       <item value="cursor" />
       <item value="完事顺利" />
-      <item value="完事" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
