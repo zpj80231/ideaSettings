@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Duplicate beans are not allowed to be defined" />
       <item value="Process terminated" />
       <item value="Merchant Service" />
       <item value="Merchant Acc Service" />
@@ -137,12 +138,11 @@
       <item value="Queue Member Event" />
       <item value="wrapuptime" />
       <item value="cursor" />
-      <item value="完事顺利" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
