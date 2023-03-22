@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Configurable Bean Factory" />
       <item value="Duplicate beans are not allowed to be defined" />
       <item value="Process terminated" />
       <item value="Merchant Service" />
@@ -137,12 +138,11 @@
       <item value="A MonitorStartEvent indicates that monitoring was started on a channel. Available since Asterisk 1.6. It is implemented in resres_monitor.c" />
       <item value="Queue Member Event" />
       <item value="wrapuptime" />
-      <item value="cursor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
