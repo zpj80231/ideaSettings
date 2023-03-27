@@ -13,7 +13,11 @@
             <map />
           </value>
         </entry>
-        <entry key="snail" />
+        <entry key="snail">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="znote">
           <value>
             <map />
