@@ -3,13 +3,22 @@
     <option name="author" value="zhangpengjun" />
     <option name="projectWordMap">
       <map>
-        <entry key="dky-call" />
-        <entry key="snail">
+        <entry key="dky-call">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="znote" />
+        <entry key="dky-tncs">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="snail" />
+        <entry key="znote">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
