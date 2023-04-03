@@ -78,7 +78,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679302845176" />
+    <option name="lastTrimTime" value="1680505086892" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
       <item value="Configurable Bean Factory" />
       <item value="Duplicate beans are not allowed to be defined" />
       <item value="Process terminated" />
@@ -137,12 +138,11 @@
       <item value="A VarSetEvent is triggered when a channel or global variable is set in Asterisk." />
       <item value="A MonitorStartEvent indicates that monitoring was started on a channel. Available since Asterisk 1.6. It is implemented in resres_monitor.c" />
       <item value="Queue Member Event" />
-      <item value="wrapuptime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
       </map>
     </option>
   </component>
