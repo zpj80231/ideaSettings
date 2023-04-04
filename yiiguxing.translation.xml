@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Dependabot" />
+      <item value="metadata" />
       <item value="No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
       <item value="Configurable Bean Factory" />
       <item value="Duplicate beans are not allowed to be defined" />
@@ -136,13 +138,11 @@
       <item value="A dial event is triggered whenever a phone attempts to dial someone." />
       <item value="A StatusEvent is triggered for each active channel in response to a StatusAction." />
       <item value="A VarSetEvent is triggered when a channel or global variable is set in Asterisk." />
-      <item value="A MonitorStartEvent indicates that monitoring was started on a channel. Available since Asterisk 1.6. It is implemented in resres_monitor.c" />
-      <item value="Queue Member Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
