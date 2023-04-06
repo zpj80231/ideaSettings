@@ -5,11 +5,7 @@
       <map>
         <entry key="dky-call" />
         <entry key="dky-tncs" />
-        <entry key="hello">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="hello" />
         <entry key="snail">
           <value>
             <map />
