@@ -78,6 +78,10 @@
           <option name="url" value="git@github.com:zpj80231/snail.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dromara/RuoYi-Cloud-Plus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
