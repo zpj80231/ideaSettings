@@ -86,6 +86,10 @@
           <option name="url" value="git@github.com:dromara/RuoYi-Vue-Plus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:laoyin/freeswitch_admin_ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\idea_workspace" />
