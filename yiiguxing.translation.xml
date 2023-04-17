@@ -78,7 +78,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680505086892" />
+    <option name="lastTrimTime" value="1681713894823" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Ajax" />
+      <item value="Cache Evict" />
       <item value="docs: update run command" />
       <item value="Enhancer" />
       <item value="Dependabot" />
@@ -136,13 +138,11 @@
       <item value="Async Event Pump" />
       <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the pointcut are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list." />
       <item value="Creates a LinkedBlockingQueue with the given (fixed) capacity. Params: capacity – the capacity of this queue Throws: IllegalArgumentException – if capacity is not greater than zero" />
-      <item value="deregister Event Class" />
-      <item value="A dial event is triggered whenever a phone attempts to dial someone." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
