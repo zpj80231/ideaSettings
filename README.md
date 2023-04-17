@@ -1,4 +1,6 @@
-# IntelliJ IDEA 个人配置
+# IntelliJ IDEA 个人使用及配置
+
+## 简介
 
 使用方法： 
 
@@ -7,6 +9,22 @@
 3. Overwrite Local or Overwrite Remote
 
 推荐下载：2021.1.3版本（搭配试用30天到期自动续期插件永久免费食用），IDEA官方历史版本下载地址：[https://www.jetbrains.com/idea/download/other.html](https://www.jetbrains.com/idea/download/other.html)
+
+## 利用 GitHub 项目免费申请 IDEA 激活码
+
+- 官方申请地址：[https://www.jetbrains.com/shop/eform/opensource?product=ALL](https://www.jetbrains.com/shop/eform/opensource?product=ALL)
+
+申请条件：
+
+1. GitHub 上有一个维护超过3个月的开源项目
+2. 必须是 GitHub 开源项目的发起人或是活跃的 commiter
+3. GitHub 开源项目必须指定一个 License
+
+注意事项：
+
+1. 提交申请前记得将 Github 个人信息中的 Email 公开
+2. 收到申请成功的邮件后，如果没有注册 JetBrains 账号，记得去注册账号。注册地址：[https://account.jetbrains.com/login](https://account.jetbrains.com/login)
+3. 申请成功后，可获得全家桶的使用权 1 年，如果到期了会提前给你发邮件还可以继续申请
 
 ## 常用配置
 
