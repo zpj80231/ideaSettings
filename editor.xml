@@ -8,9 +8,10 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="DialogInput" />
+    <option name="FONT_FAMILY" value="Monospaced" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />

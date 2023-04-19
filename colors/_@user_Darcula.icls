@@ -1,15 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-07-19T22:43:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2023-04-19T15:51:50</property>
+    <property name="modified">2023-04-19T16:32:53</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
     <option name="HTML_CODE">
       <value />
