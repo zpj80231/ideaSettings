@@ -78,7 +78,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681713894823" />
+    <option name="lastTrimTime" value="1682251683162" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Repackage existing JAR and WAR archives so that they can be executed from the command line using {@literal java -jar}. With &amp;lt;code&amp;gt;layout=NONE&amp;lt;code&amp;gt; can also be used simply to package a JAR with nested dependencies (and no main class, so not executable)." />
       <item value="Fill" />
       <item value="Ajax" />
       <item value="Cache Evict" />
@@ -137,12 +138,11 @@
       <item value="Consider defining a bean of type 'org.asteriskjava.manager.internal.Dispatcher' in your configuration." />
       <item value="Pump" />
       <item value="Async Event Pump" />
-      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the pointcut are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>
