@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="execution" />
+      <item value="executions" />
       <item value="Repackage existing JAR and WAR archives so that they can be executed from the command line using {@literal java -jar}. With &amp;lt;code&amp;gt;layout=NONE&amp;lt;code&amp;gt; can also be used simply to package a JAR with nested dependencies (and no main class, so not executable)." />
       <item value="Fill" />
       <item value="Ajax" />
@@ -136,13 +138,11 @@
       <item value="refactor" />
       <item value="Backwards compatibility for bridge events. Asterisk 13 uses BridgeCreate, BridgeEnter, BridgeLeave and BridgeDestroy events. So here we track active bridges and simulate BridgeEvent's for them allowing legacy code to still work with BridgeEvent's" />
       <item value="Consider defining a bean of type 'org.asteriskjava.manager.internal.Dispatcher' in your configuration." />
-      <item value="Pump" />
-      <item value="Async Event Pump" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
       </map>
     </option>
   </component>
