@@ -4,14 +4,14 @@
     <option name="projectWordMap">
       <map>
         <entry key="dky-call" />
-        <entry key="dky-tncs">
+        <entry key="dky-tncs" />
+        <entry key="hello" />
+        <entry key="snail" />
+        <entry key="znote">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="hello" />
-        <entry key="snail" />
-        <entry key="znote" />
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
