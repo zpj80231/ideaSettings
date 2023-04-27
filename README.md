@@ -26,6 +26,8 @@
 2. 收到申请成功的邮件后，如果没有注册 JetBrains 账号，记得去注册账号。注册地址：[https://account.jetbrains.com/login](https://account.jetbrains.com/login)
 3. 申请成功后，可获得全家桶的使用权 1 年，如果到期了会提前给你发邮件还可以继续申请
 
+> 或者直接参考这个地址：[https://blog.csdn.net/zlt2000/article/details/115611788](https://blog.csdn.net/zlt2000/article/details/115611788)
+
 ## 常用配置
 
 看这两个就行：
