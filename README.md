@@ -54,15 +54,17 @@
 | 13   | Maven Helper                         | 查找和排除冲突依赖项的简便方法                               |
 | 14   | RestfulTool                          | 1.根据 URL 直接跳转到对应的方法定义 ( Ctrl \ or Ctrl Alt N );<br/>2.提供了一个 Services tree 的显示窗口;<br/>3.一个简单的 http 请求工具;<br/>4.在请求方法上添加了有用功能: 复制生成 URL;,复制方法参数...<br/>5.其他功能: java 类上添加 Convert to JSON 功能，格式化 json 数据 ( Windows: Ctrl + Enter; Mac: Command + Enter )。 |
 | 15   | GenerateAllSetter                    | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter |
-| 16   | codota 或 Tabnine                    | 需联网使用，代码智能自动补全，比idea自带的提示还要详细，你甚至可以直接搜索一个词的类似用法，看看大神是怎么写的。 |
+| 16   | Codeium, 比codota和Tabnine好          | 需联网使用，代码智能自动补全。 |
 | 17   | IDE Eval Reset                       | 30天试用期无限循环（相当于破解）。<br/>1.添加第三方插件仓库`https://plugins.zhile.io`<br/>2.搜索：`IDE Eval Reset`插件进行安装<br/>3.在idea主界面help-->eval Reset点击重启idea<br/>或者参考：[idea 安装eval reset插件](https://blog.csdn.net/OracleOracolo/article/details/113886757) |
 | 18   | arthas idea                          | 基于IntelliJ IDEA开发的 Alibaba Arthas 命令生成插件，支持 Alibaba Arthas 官方常用的命令。 |
 | 19   | Easy Javadoc                         | 能帮助开发者快速生成类、方法、属性等中文javadoc/kdoc，快捷键 Ctrl+\ |
 | 20   | GsonFormatPlus                       | 基于json生成java实体类                                       |
 | 21   | Key Promoter X                       | 对你的idea操作，会提示相应的快捷键是什么                     |
-| 22   | Save Action                          | 保存的时候进行格式化操作                                     |
+| 22   | Save Action Tool                     | 保存的时候进行格式化操作                                     |
 | 23   | Squaretest 或 TestMe                 | 生成单元测试                                                 |
 | 24   | String Manipulation                  | 对字符串的操作，支持大小写驼峰转换，字符串加解密等           |
+| 25   | Apifox Helper                        | 在线接口文档           |
+| 26   | SonarLint                            | 代码质量提示           |
 
 ## 主题
 
@@ -92,5 +94,15 @@
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000956_1335a7b5_945727.png)
 
 ### 文件头注释
+
+* Editor->File and Code Templates
+
+```java
+/**
+ * 
+ * @author zhangpj
+ * @date ${DATE}
+ */
+```
 
 ![image.png](https://images.gitee.com/uploads/images/2019/0118/000957_0a1a36f9_945727.png)
