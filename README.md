@@ -42,7 +42,7 @@
 | 序号 | 名称                                 | 备注                                                         |
 | ---- | :----------------------------------- | ------------------------------------------------------------ |
 | 1    | Alibaba Java Coding Guidelines       | 阿里编程规范，可以检查自己的java命名规范编程规范以及bug，并会给出相应的解决方案 |
-| 2    | Grep Console                         | 对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。 |
+| 2    | Grep Console                         | 对控制台输出的不同级别的日志进行上色，比如info级别是黑色，WARN级别是黄色，ERROR是橙色。不用找日志把眼睛找瞎了。<br/>配色方案：[利用grep-console插件使Intellij idea显示多颜色调试日志](https://blog.csdn.net/weixin_39973810/article/details/110190844) |
 | 3    | Kotlin                               | 项目中使用到了Kotlin可以安装，现idea默认已自带               |
 | 4    | Lombok                               | 以简单的注解形式简化POJO，现idea默认已自带                   |
 | 5    | Translation                          | 翻译                                                         |
