@@ -67,6 +67,7 @@
 | 24   | String Manipulation                  | 对字符串的操作，支持大小写驼峰转换，字符串加解密等           |
 | 25   | Apifox Helper                        | 在线接口文档           |
 | 26   | SonarLint                            | 代码质量提示           |
+| 27   | Rainbow Variable                     | 方法内彩色变量匹配     |
 
 ## 主题
 
