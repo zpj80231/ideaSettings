@@ -64,7 +64,7 @@
 | 21   | Key Promoter X                       | 对你的idea操作，会提示相应的快捷键是什么                     |
 | 22   | Save Action Tool                     | 保存的时候进行格式化操作                                     |
 | 23   | Squaretest 或 TestMe                 | 生成单元测试                                                 |
-| 24   | String Manipulation                  | 对字符串的操作，支持大小写驼峰转换，字符串加解密等           |
+| 24   | String Manipulation 或 ConverterX    | 对字符串的操作，支持大小写驼峰转换，字符串加解密等           |
 | 25   | Apifox Helper                        | 在线接口文档           |
 | 26   | SonarLint                            | 代码质量提示           |
 | 27   | Rainbow Variable                     | 方法内彩色变量匹配     |
