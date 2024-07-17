@@ -1,3 +1,0 @@
-<application>
-  <component name="MybatisSettings" InsertGenerator="[&quot;add&quot;,&quot;insert&quot;,&quot;new&quot;]" DeleteGenerator="[&quot;cancel&quot;,&quot;del&quot;]" UpdateGenerator="[&quot;update&quot;,&quot;modify&quot;,&quot;set&quot;]" SelectGenerator="[&quot;search&quot;,&quot;select&quot;,&quot;find&quot;,&quot;get&quot;,&quot;query&quot;,&quot;count&quot;,&quot;list&quot;,&quot;look&quot;]" statementGenerateModel="0" />
-</application>

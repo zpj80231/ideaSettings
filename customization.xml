@@ -1,9 +1,0 @@
-<application>
-  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="18">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-  </component>
-</application>
