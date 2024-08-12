@@ -53,16 +53,22 @@
 
   2. 解压并覆盖 `config` 到 `ja-netfilter` 原本的 `config`
 
-  3. 修改 IDEA 的 `idea.vmoptions` 文件(文件在哪，Google 一下)，在末尾填上
+  3. 修改 IDEA 的 `idea.vmoptions` 文件（文件在哪，Google 一下）
+
+     Mac 上的地址：`~/Library/Application Support/JetBrains/IntelliJIdea2024.2/idea.vmoptions`
+
+     在末尾填上：
 
      ```shell
+     -Xmx4096m
+     
      --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
      --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
      
-     -javaagent:/xxx/ja-netfilter.jar
+     -javaagent:/Users/zhangpj/crack/ja-netfilter/ja-netfilter.jar
      ```
 
-     将其中的 `/xxx/ja-netfilter.jar` 替换为你自己的路径
+     将其中的 `/Users/zhangpj/crack/ja-netfilter/ja-netfilter.jar` 替换为你自己的路径
 
   4. 打开IDEA，填入激活码（activation_code.txt 文件内容）
 
