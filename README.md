@@ -97,7 +97,7 @@
 | 12   | Free Mybatis plugin 或 MybatisX 或 MyBatisCodeHelper-Pro | 生成mapper xml文件<br/>快速从代码跳转到mapper及从mapper返回代码<br/>mybatis自动补全及语法错误提示<br/>集成mybatis generator gui界面<br/>根据数据库注解，生成swagger model注解<br/>[MyBatisCodeHelper-Pro 破解版指导](https://blog.csdn.net/weixin_43811057/article/details/123759674) |
 | 13   | Maven Helper                                             | 查找和排除冲突依赖项的简便方法，[IDEA Maven 镜像配置](https://blog.csdn.net/idto315/article/details/122888893) |
 | 14   | Cool Request                                             | 1.根据 URL 直接跳转到对应的方法定义 ( Ctrl \ or Ctrl Alt N );<br/>2.提供了一个 Services tree 的显示窗口;<br/>3.一个简单的 http 请求工具;<br/>4.在请求方法上添加了有用功能: 复制生成 URL;,复制方法参数...<br/>5.其他功能: java 类上添加 Convert to JSON 功能，格式化 json 数据 ( Windows: Ctrl + Enter; Mac: Command + Enter )。 |
-| 15   | GenerateAllSetter                                        | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter |
+| 15   | GenerateAllSetter <br/> Generate All Getter And Setter   | 当你进行对象之间赋值的时候，你会发现好麻烦呀，能不能有一个更好的办法呢~ 有，只要你选中需要生成set方法的对象，按下快捷键 alt+enter <br/> 使用 .allget 生成所有 getter 方法 |
 | 16   | CodeGeeX                                                 | 代码 AI 智能自动补全。                                       |
 | 17   | IDE Eval Reset                                           | 2021.1.3版本，30天试用期无限循环（相当于破解）。<br/>1.添加第三方插件仓库`https://plugins.zhile.io`<br/>2.搜索：`IDE Eval Reset`插件进行安装<br/>3.在idea主界面help-->eval Reset点击重启idea<br/>或者参考：[idea 安装eval reset插件](https://blog.csdn.net/OracleOracolo/article/details/113886757) |
 | 18   | arthas idea                                              | 基于IntelliJ IDEA开发的 Alibaba Arthas 命令生成插件，支持 Alibaba Arthas 官方常用的命令。 |
