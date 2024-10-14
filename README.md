@@ -4,28 +4,18 @@
 
 主要包括以下几部分：
 
-1. 个人配置同步问题
-2. JetBrains 及插件激活
-3. 常用配置整理
-4. 插件推荐
-
-## 配置同步
-
-### GitHub 远程配置同步
-
-使用方法： 
-
-1. IntelliJ IDEA
-2. File | Settings Repository 指定远程仓库地址 (自己在 GitHub 或者 Gitee 上新建一个空仓库即可)
-3. Overwrite Local or Overwrite Remote
-
-### JetBrains 账号配置同步
-
-登录账号即可，无需过多解释
+1. 激活（包含付费插件）
+2. 个人配置同步问题
+3. 常用插件推荐
+4. 常用配置整理
 
 ## 激活
 
-### 利用 GitHub 项目免费申请 JetBrains 激活码
+### 正式激活
+
+- 购买正版激活码，直接购买即可，官网地址：[https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
+
+### 利用开源项目免费申请 JetBrains 激活码
 
 - 官方申请地址：[https://www.jetbrains.com/shop/eform/opensource?product=ALL](https://www.jetbrains.com/shop/eform/opensource?product=ALL)
 
@@ -65,16 +55,32 @@
      --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
      --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
      
-     -javaagent:/Users/zhangpj/crack/ja-netfilter/ja-netfilter.jar
+     -javaagent:/Users/xxx/crack/ja-netfilter/ja-netfilter.jar
      ```
 
-     将其中的 `/Users/zhangpj/crack/ja-netfilter/ja-netfilter.jar` 替换为你自己的路径
+     将其中的 `/Users/xxx/crack/ja-netfilter/ja-netfilter.jar` 替换为你自己的路径
 
   4. 打开IDEA，填入激活码（activation_code.txt 文件内容）
 
   5. 插件破解：需要猴油（tampermonkey）脚本, 解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可
 
 - 当然，有能力的还是推荐购买正版激活
+
+
+## 配置同步
+
+### GitHub 远程配置同步
+
+使用方法：
+
+1. IntelliJ IDEA
+2. File | Settings Repository 指定远程仓库地址 (自己在 GitHub 或者 Gitee 上新建一个空仓库即可)
+3. Overwrite Local or Overwrite Remote
+
+### JetBrains 账号配置同步
+
+登录账号即可，无需过多解释
+
 
 ## 常用插件
 
@@ -111,6 +117,7 @@
 | 26   | SonarLint                                                | 代码质量提示                                                 |
 | 27   | Rainbow Variable                                         | 方法内彩色变量匹配                                           |
 
+
 ## 常用配置
 
 看这两个就行：
@@ -131,7 +138,6 @@
 
 ![IDEA应用字体](https://images.gitee.com/uploads/images/2019/0118/000955_06dda8fd_945727.png)
 ![代码字体](https://images.gitee.com/uploads/images/2019/0118/000955_dd80cfab_945727.png)
-
 
 ### 代码模板 
 
